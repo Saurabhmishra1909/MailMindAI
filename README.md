@@ -17,7 +17,6 @@
 | **Backend**    | Spring Boot, WebClient, Gemini API |  
 | **Frontend**   | React.js, Chrome Extension API |  
 | **AI**         | Google Gemini (LLM), Prompt Engineering |  
-| **DevOps**     | Docker (optional), GitHub Actions |  
 
 ---
 
